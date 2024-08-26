@@ -1,0 +1,3 @@
+# Instalacja i konfiguracja środowiska Oracle 18c XE na maszynie wirtualnej oraz zarządzanie Pluggable Databases
+
+W projekcie zainstalowano i skonfigurowano środowisko bazodanowe Oracle 18c Express Edition (XE) na maszynie wirtualnej z systemem Windows 10. Szczegółowo opisano proces tworzenia kontenerów, konfiguracji plików konfiguracyjnych, tworzenia użytkowników i przestrzeni tabel, a także wczytywania baz danych do utworzonych kontenerów. Dodatkowo, skonfigurowano ustawienia Oracle’s National Language Support (NLS) oraz przeprowadzono operacje na pluggable databases (PDB), takie jak odłączanie i podłączanie baz danych na tej samej lub innej maszynie wirtualnej.
